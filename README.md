@@ -9,6 +9,5 @@
       <p style="color:red;">I am red</p>
       
   </body>
-    
-</html>
+    </html>
     
